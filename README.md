@@ -4,6 +4,15 @@ An interactive e-learning module (Hebrew, right-to-left) that teaches how to rec
 
 **▶ Live demo: https://hilagabay28.github.io/scam-awareness-lesson/**
 
+## Design and motion
+
+The look is a "warning file": warm paper, black ink and a single signal colour, with large condensed Hebrew display type (Karantina), IBM Plex Sans Hebrew for text and IBM Plex Mono for web addresses.
+
+- **[GSAP](https://github.com/greensock/GSAP):** content reveals, a rubber-stamp verdict on each message, a highlighter that sweeps over warning signs, Flip-animated reordering, and a shake on wrong answers.
+- **[Lenis](https://github.com/darkroomengineering/lenis):** smooth scrolling.
+- **[React Bits](https://github.com/DavidHDev/react-bits):** headings that decrypt into place, spotlight cards, paper grain, magnetic buttons, the score counter and the "caution tape" marquee (see `src/components/bits/README.md`).
+- With "reduce motion" turned on in the operating system, all of this is switched off and the lesson is fully static.
+
 ## Learning objectives
 
 By the end of the lesson the learner can:

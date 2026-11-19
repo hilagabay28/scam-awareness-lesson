@@ -2,6 +2,8 @@
 
 An interactive e-learning module (Hebrew, right-to-left) that teaches how to recognise online scams and phishing. About 7 minutes, built with **React** and **Vite**.
 
+**▶ Live demo: https://hilagabay28.github.io/scam-awareness-lesson/**
+
 ## Learning objectives
 
 By the end of the lesson the learner can:

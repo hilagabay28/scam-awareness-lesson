@@ -1,5 +1,3 @@
-# לא נופלים בפח — Scam Awareness Lesson
-
 An interactive e-learning module (Hebrew, right-to-left) that teaches how to recognise online scams and phishing. About 7 minutes, built with **React** and **Vite**.
 
 **▶ Live demo: https://hilagabay28.github.io/scam-awareness-lesson/**
